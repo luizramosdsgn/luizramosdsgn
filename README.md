@@ -26,6 +26,6 @@ Sou focado em criar interfaces que unem um visual bem pensado com código limpo 
 
 ### 📫 Contato
 
-- **Instagram:** [@luizramosdsgn](https://www.instagram.com/luizramos.07/)
+- **Instagram:** [@luizramos.07](https://www.instagram.com/luizramos.07/)
 - **LinkedIn** [/luizramosdsgn](https://linkedin.com/in/luizramosdsgn/)
 - **E-mail:** luizramos.artedesign@gmail.com
